@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../лионик"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "лионик"
+	}
+}
